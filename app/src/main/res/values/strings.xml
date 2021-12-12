@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Coffeepedia</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main_nav">MainNavActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_music">Music</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="title_activity_login">Sign in</string>
+
+
+    <string name="prompt_name">Please enter your name</string>
+    <string name="prompt_email">email must include @euc.ac.cy</string>
+    <string name="prompt_password">Please type a password</string>
+    <string name="prompt_phone">enter an 8-digit phone number</string>
+    <string name="prompt_age">Please enter your age</string>
+
+
+    <string name="action_sign_in">Welcome!</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_name">name must be from 4 to 12 characters long</string>
+    <string name="invalid_email">Not a valid email. Please include @euc.ac.cy</string>
+    <string name="invalid_password">Password must be 4 to 8 long characters</string>
+    <string name="invalid_phone">Must contain from 99000000 to 99999999</string>
+    <string name="invalid_age">Age must be between 10 to 60</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_comfirmation">Comfirmation</string>
+    <string name="title_activity_gallery">GalleryActivity</string>
+
+    <string name="tab_text_1">One</string>
+    <string name="tab_text_2">Two</string>
+    <string name="tab_text_3">Three</string>
+    <string name="tab_text_4">Four</string>
+    <string name="tab_text_5">Five</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

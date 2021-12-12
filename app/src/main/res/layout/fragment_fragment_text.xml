@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--<ScrollView-->
+<!--    xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    xmlns:app="http://schemas.android.com/apk/res-auto"-->
+<!--    xmlns:tools="http://schemas.android.com/tools"-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="match_parent"-->
+<!--    android:orientation="vertical"-->
+<!--    tools:context=".FragmentText">-->
+
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <TextView
+            android:id="@+id/textReplace"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:text="Brazil\n\nBrazil stands alone, because they are such a large producer and have a widely varied output. Brazilian coffee is processed in three ways: dry (natural), wet (washed), and semi-washed (pulp natural). During dry processing, coffee is dried while still in the cherry, whereas with the wet process, the coffee is stripped of its outer layers before the drying process. Pulped natural is done by pulping a coffee, but emitting the fermentation stage in order to remove the skin. Chocolate and spice flavors are common and these coffees linger in your mouth in comparison to other South American coffees. Some Brazilian beans have a pronounced nutty quality and a heavy body which makes them a frequent component in espresso blends." />
+    </LinearLayout>
+<!--</ScrollView>-->
